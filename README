@@ -1,0 +1,13 @@
+Commands to run - 
+
+hw1 hexdump [file]
+hw1 enc-base64 [file]
+hw1 dec-base64 [file]
+
+main.c - contains main program.
+functions.h - contains function declarations.
+enc_base64.c -  contains function definitions for base64 encoding.
+dec_base64.c - contains function definitions for b64 decoding. 
+hexdump.c - contains function definitions for hexdump.
+Makefile 
+        
